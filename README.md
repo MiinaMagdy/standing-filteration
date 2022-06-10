@@ -3,7 +3,7 @@ you can filter the standing of ACPC kickoff, just write some words and check the
 ## constraints
 the extension works on brave & chrome
 
-working on ACPC kickoff standing only
+working on ACPC kickoff standing page only
 
 make sure the checkbox is unchecked when you are writing the words in the input text
 ## What's so special
