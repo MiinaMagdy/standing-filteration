@@ -24,4 +24,4 @@ chrome://extensions
 - here we go the extension is loaded succesfully
 
 ---
-![Screenshot from 2022-06-10 20-02-09](https://user-images.githubusercontent.com/71466151/173125020-ea1321ce-62c7-42cc-9e2d-4a0c55591d2b.png)
+![rep](https://user-images.githubusercontent.com/71466151/173128934-05fc0fc7-4706-4f4a-9592-d5c7a2047538.png)
