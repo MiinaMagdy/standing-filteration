@@ -1,6 +1,8 @@
 # standing-filteration
 you can filter the standing of ACPC kickoff, just write some words and check the checkbox then the page will be filtered by these words
 ## constraints
+the extension works on brave & chrome
+
 working on ACPC kickoff standing only
 
 make sure the checkbox is unchecked when you are writing the words in the input text
