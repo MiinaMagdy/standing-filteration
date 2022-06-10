@@ -4,5 +4,6 @@ you can filter the standing of ACPC kickoff, just write some words and check the
 working on ACPC kickoff standing only
 ## What's so special
 when the page loads sucessfully to get the new data, if the checkbox is checked from the last time, it filters the standing by the last writen words
-<hr>
-![Screenshot from 2022-06-10 20-02-09](https://user-images.githubusercontent.com/71466151/173124829-48624442-51b4-421a-b756-58dfa2098160.png)
+
+---
+![Screenshot from 2022-06-10 20-02-09](https://user-images.githubusercontent.com/71466151/173125020-ea1321ce-62c7-42cc-9e2d-4a0c55591d2b.png)
