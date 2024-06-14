@@ -12,7 +12,7 @@
     },
     "content_scripts": [
         {
-            "matches": ["http://kickoffs32022.acpc.global/*"],
+            "matches": ["http://s3acpc.acpc.global/*"],
             "js" : ["content.js"]
         }
     ],
