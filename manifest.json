@@ -1,20 +1,31 @@
 {
-    "name": "standing filter button",
-    "description": "the extension sort of filtar the standing such that all members of (SCU) is only appear in the result",
-    "version": "1.0",
-    "manifest_version": 3,
-    "action": {
-        "default_popup": "popup.html",
-        "default_icon": "icon.png"
-    },
-    "icons": { 
-        "16": "icon.png"
-    },
-    "content_scripts": [
-        {
-            "matches": ["http://s3acpc.acpc.global/*"],
-            "js" : ["content.js"]
-        }
-    ],
-    "permissions": ["background", "tabs", "webRequest","storage", "declarativeContent", "activeTab", "scripting"]
+  "name": "standing filter button",
+  "description": "Filter the ICPC scoreboard with your search",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://s3acpc.acpc.global/*",
+        "https://scoreboard.acpc.global/*"
+      ],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": [
+    "background",
+    "tabs",
+    "webRequest",
+    "storage",
+    "declarativeContent",
+    "activeTab",
+    "scripting"
+  ]
 }
